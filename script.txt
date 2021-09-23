@@ -1,0 +1,25 @@
+https://aka.ms/jboss-pet-store
+
+App service
+	P1v3
+	config
+
+Manual Scale
+
+Github Project
+src/main/resources/META-INF/persistence.xml
+.scripts/3B-mysql/mysql-datasource-commands.cli
+.scripts/3B-mysql/startup.sh
+pom.xml – line 253
+	zip .scripts/3B-mysql
+
+Github action
+Secrets
+Action
+
+Petstore application
+
+App insights
+
+Autoscale
+Stop mysql
