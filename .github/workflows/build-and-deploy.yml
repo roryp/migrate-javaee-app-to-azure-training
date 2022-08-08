@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  WEBAPP: migraterpza   # Replace with your JBoss site's name
+  WEBAPP: migrate-javarpza   # Replace with your JBoss site's name
   GROUP: migratejavarpza  # Replace with the resource group containing your JBoss EAP site
   SCRIPTS_DIR: 3A-postgresql  # Replace this with 3B-mysql or 3C-sql if you used MySQL or SQL
 
