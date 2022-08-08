@@ -82,7 +82,7 @@ jobs:
     - name: Deploy data source artifacts
       uses: azure/CLI@v1
       with:
-        azcliversion: 2.19.1
+        azcliversion: 2.34.1
         inlineScript: |
           az extension add --name webapp
           
