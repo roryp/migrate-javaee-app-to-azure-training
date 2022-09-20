@@ -12,7 +12,7 @@ description: "Migrate Java EE apps to Azure"
 urlFragment: "migrate-javaee-app-to-azure-training"
 ---
 
-# Migrate Java EE App to Azure 
+# Migrate Java EE App to Azure
 
 You will find here a full training workshop on migrating an existing Java EE application to Azure, 
 including guides and demos. You will migrate:
