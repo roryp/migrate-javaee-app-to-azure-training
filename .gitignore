@@ -33,3 +33,4 @@ projectFilesBackup*
 
 .scripts/setup-env-variables.sh
 apm/
+script.txt

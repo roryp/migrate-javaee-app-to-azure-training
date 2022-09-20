@@ -8,10 +8,10 @@ Manual Scale
 
 Github Project
 src/main/resources/META-INF/persistence.xml
-.scripts/3B-mysql/mysql-datasource-commands.cli
-.scripts/3B-mysql/startup.sh
+.scripts/3A-postgresql/postgresql-datasource-commands.cli
+.scripts/3A-postgresql/startup.sh
 pom.xml – line 253
-	zip .scripts/3B-mysql
+	zip .scripts/3A-postgresql
 
 Github action
 Secrets
@@ -22,4 +22,4 @@ Petstore application
 App insights
 
 Autoscale
-Stop mysql
+Stop postgresql
